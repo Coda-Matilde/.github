@@ -11,7 +11,7 @@ Se você já sentiu que a área foca muito em ferramentas e pouco na engenharia 
 
 ## 👾 Nosso objetivo
 
-O **Coda Matilde ** é o nosso manual de exploração. Somos engenheiras que decidiram parar de olhar para a interface como uma caixa-preta e abrir o código para entender as engrenagens.
+O **Coda Matilde** é o nosso manual de exploração. Somos engenheiras que decidiram parar de olhar para a interface como uma caixa-preta e abrir o código para entender as engrenagens.
 
 Nosso objetivo é simples: te dar base técnica para dominar o sistema que você testa e mudar como o nosso trabalho é visto. O mercado, muitas vezes, ainda acha que QAs são "descartáveis" ou que nosso trabalho pode ser absorvido por POs, devs ou qualquer um que saiba "clicar em botões" e seguir os cenários de testes escritos. Nós queremos quebrar esse estigma. Entender de banco de dados, infraestrutura ou como uma API é construída não significa que você queira virar dev. Significa que, sabendo como o terreno foi desenhado, você sabe exatamente onde ele é frágil.
 
